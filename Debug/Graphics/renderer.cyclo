@@ -1,0 +1,2 @@
+../Graphics/renderer.c:8:6:Renderer_Init	1
+../Graphics/renderer.c:13:6:Renderer_DrawStars	6

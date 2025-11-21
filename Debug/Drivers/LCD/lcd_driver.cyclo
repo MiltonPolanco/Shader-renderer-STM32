@@ -1,0 +1,14 @@
+../Drivers/LCD/lcd_driver.c:8:13:LCD_WriteDataBus	1
+../Drivers/LCD/lcd_driver.c:25:13:LCD_WriteCommand	1
+../Drivers/LCD/lcd_driver.c:33:13:LCD_WriteData	1
+../Drivers/LCD/lcd_driver.c:41:13:LCD_WriteData16	1
+../Drivers/LCD/lcd_driver.c:50:13:LCD_SetWindow	3
+../Drivers/LCD/lcd_driver.c:70:6:LCD_Init	2
+../Drivers/LCD/lcd_driver.c:233:6:LCD_Clear	2
+../Drivers/LCD/lcd_driver.c:251:6:LCD_DrawPixel	5
+../Drivers/LCD/lcd_driver.c:260:6:LCD_FillRect	10
+../Drivers/LCD/lcd_driver.c:285:6:LCD_DrawLine	7
+../Drivers/LCD/lcd_driver.c:310:6:LCD_DrawCircle	3
+../Drivers/LCD/lcd_driver.c:345:6:LCD_FillCircle	7
+../Drivers/LCD/lcd_driver.c:370:6:LCD_DrawHLine	1
+../Drivers/LCD/lcd_driver.c:375:6:LCD_DrawVLine	1

@@ -1,0 +1,11 @@
+../SolarSystem/camera.c:4:6:Camera_Init	1
+../SolarSystem/camera.c:28:6:Camera_Update	3
+../SolarSystem/camera.c:58:6:Camera_UpdateMatrices	1
+../SolarSystem/camera.c:71:6:Camera_Rotate	4
+../SolarSystem/camera.c:80:6:Camera_Zoom	2
+../SolarSystem/camera.c:88:6:Camera_MoveVertical	3
+../SolarSystem/camera.c:96:6:Camera_SetMode3D	1
+../SolarSystem/camera.c:101:6:Camera_WarpTo	1
+../SolarSystem/camera.c:110:6:Camera_WarpToBody	1
+../SolarSystem/camera.c:120:9:Camera_WorldToScreen	1
+../SolarSystem/camera.c:141:9:Camera_IsPointVisible	1
